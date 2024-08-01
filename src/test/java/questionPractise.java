@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.*;
+import pages.TutorialPointHomePage;
 
 import java.time.Duration;
 import java.util.List;
@@ -27,15 +28,8 @@ public class questionPractise {
 
     @Test(priority = 1)
     public void firstTest() {
-        By PhoneNumberDropDown = By.xpath("//select[@name='country_code']");
-        Select select = new Select(driver.findElement(PhoneNumberDropDown));
-        List<WebElement> options = select.getOptions();
-        for (WebElement option : options) {
-            String value = option.getText();
-            System.out.println(value);
-        }
-
-
+        TutorialPointHomePage tutorialPointHomePage = new TutorialPointHomePage(driver);
+        tutorialPointHomePage.getAllCountries();
     }
 
 //    @DataProvider(name = "loginTest")
