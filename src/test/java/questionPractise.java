@@ -30,8 +30,8 @@ public class questionPractise {
         By PhoneNumberDropDown = By.xpath("//select[@name='country_code']");
         Select select = new Select(driver.findElement(PhoneNumberDropDown));
         List<WebElement> options = select.getOptions();
-        for (int i = 0; i < options.size(); i++) {
-            String value = options.get(i).getText();
+        for (WebElement option : options) {
+            String value = option.getText();
             System.out.println(value);
         }
 

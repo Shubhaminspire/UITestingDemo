@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e6f3b8b-b28f-488b-b14e-c91c7b3f7673" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InitaiteDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CosmodeHomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataFile/Countries.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Cosmocode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/URLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/questionPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,33 +36,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG./Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Cosmocode.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Cosmocode.getTableRecords.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest (2).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest (3).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest.fetchYouTubeAutoSuggestionAllOptions.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest.findAllProducts (1).executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.URLTest.findAllProducts.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest.firstSolution.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.URLTest.firstTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.questionPractise (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.questionPractise (2).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.questionPractise (3).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.questionPractise.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.questionPractise.firstTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/testng.xml.executor": "Run",
+    "TestNG.Cosmocode.executor": "Run",
+    "TestNG.Cosmocode.getTableRecords.executor": "Run",
+    "TestNG.URLTest (1).executor": "Run",
+    "TestNG.URLTest (2).executor": "Run",
+    "TestNG.URLTest (3).executor": "Run",
+    "TestNG.URLTest.executor": "Run",
+    "TestNG.URLTest.fetchYouTubeAutoSuggestionAllOptions.executor": "Run",
+    "TestNG.URLTest.findAllProducts (1).executor": "Debug",
+    "TestNG.URLTest.findAllProducts.executor": "Run",
+    "TestNG.URLTest.firstSolution.executor": "Run",
+    "TestNG.URLTest.firstTest.executor": "Run",
+    "TestNG.questionPractise (1).executor": "Run",
+    "TestNG.questionPractise (2).executor": "Run",
+    "TestNG.questionPractise (3).executor": "Run",
+    "TestNG.questionPractise.executor": "Run",
+    "TestNG.questionPractise.firstTest.executor": "Run",
+    "git-widget-placeholder": "feature-Shubham-UITestingDemo",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG./Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/testng.xml">
     <configuration name="URLTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractise" />
