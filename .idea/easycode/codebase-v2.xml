@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/pages/CosmodeHomepage.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/main/java/pages/TutorialPointHomePage.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/main/java/utility/ExplicitWait.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/main/java/utility/ExtentManager.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/main/java/InitaiteDriver.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/test/java/BaseTest.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/test/java/Cosmocode.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/test/java/questionPractise.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/src/test/java/URLTest.java;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/pom.xml;/Users/shubhamsharma/IdeaProjects/UITesting/SeleniumPractise/testng.xml" />
+  </component>
+</project>

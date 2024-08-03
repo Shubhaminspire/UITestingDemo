@@ -9,15 +9,21 @@
       <option name="ignoredModules">
         <list>
           <option value="SeleniumPractise" />
+          <option value="SeleniumPractise" />
+          <option value="SeleniumPractise" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="org.webjars:jquery:3.7.1" />
+          <option value="com.google.code.gson:gson:2.8.6" />
+          <option value="org.apache.commons:commons-compress:1.25.0" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
       </option>
